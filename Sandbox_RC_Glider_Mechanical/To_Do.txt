@@ -1,0 +1,18 @@
+Mate Vtail Wings
+Mirror Servo tray and add to assembly
+Find/CAD 9g servos
+CAD control horns in to surfaces
+Design/Source control linkages
+
+Nose Pod:
+	1 CAD BBC:Micro Bit
+	2 CAD Remote control receiver
+	3 CAD nose Cone
+	4 CAD battery + BEC
+	5 Source/DEsign Servo output pcb/wiring
+	6 Source Servo extension lead
+
+Confirm all densities of materials are approripate , mass is very important ! Will be required later to size nose pod and battery
+
+Test Build and test glide of 3d printed version of the model
+
