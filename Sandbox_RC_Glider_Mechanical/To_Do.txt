@@ -3,6 +3,14 @@ Mirror Servo tray and add to assembly
 Find/CAD 9g servos
 CAD control horns in to surfaces
 Design/Source control linkages
+CAD wiring harness from tail to nose (servo cable goes through the fuselage tube
+
+Free Flight Nose Pod:
+	1 A pod purely for holding some weights - ideally easily adjustable
+
+RC Nose Pod:
+	1 CAD suitable ELRS PWM RX
+	2 CAD battery + BEC
 
 Nose Pod:
 	1 CAD BBC:Micro Bit
@@ -12,7 +20,7 @@ Nose Pod:
 	5 Source/DEsign Servo output pcb/wiring
 	6 Source Servo extension lead
 
-Confirm all densities of materials are approripate , mass is very important ! Will be required later to size nose pod and battery
+Confirm all densities of materials are appropriate , mass is very important ! Will be required later to size nose pod and battery
 
 Test Build and test glide of 3d printed version of the model
 
